@@ -1,0 +1,9 @@
+# Dist of mill
+out
+
+# Editor & IDE settings
+.vscode
+.idea
+
+# Plugins
+.metals
